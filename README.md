@@ -13,6 +13,8 @@ Here, we will treat salary as the dependent variable and explore which factors l
 
 Instructions on how to use and interact with the project
 
+Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. 
+
 At least one paragraph summarizing efforts for ethical considerations made in the project
 
     All of these data are anonymized and thus do not infringe on anyone’s privacy. It does not even give demographic information like age or gender. Additionally, it does not list the company name, so these data cannot be traced back to any particular group. Because all data are anonymized, we can just explore which factors most impact salary levels.   
