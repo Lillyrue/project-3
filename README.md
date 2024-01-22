@@ -13,7 +13,7 @@ Here, we will treat salary as the dependent variable and explore which factors l
 
 2) Instructions on how to use and interact with the project
 
-Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. 
+Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. We focused on a visualization on the average salary for the different job categories.  In the visualization, you can select the job category of your choice, to see the average salary in that field. You are also able to pan, box zoom, wheel zoom, refresh the data, download and/or save the visual as part of the interactivity. Our audience comes from different backgrounds, so a look at the different job categories might give insight into a field they might lean towards. 
 
 3) At least one paragraph summarizing efforts for ethical considerations made in the project
 
