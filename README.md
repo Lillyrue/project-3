@@ -17,6 +17,8 @@ Here, we will treat salary as the dependent variable and explore which factors l
 
 Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. We focused on a visualization on the average salary for the different job categories.  In the visualization, you can select the job category of your choice, to see the average salary in that field. You are also able to pan, box zoom, wheel zoom, refresh the data, download and/or save the visual as part of the interactivity. Our audience comes from different backgrounds, so a look at the different job categories might give insight into a field they might lean towards. 
 
+The 'linear models' Jupyter notebook file uses the statsmodel package to create linear models that test whether factors (like job category or company size) are statistically significant on their impact of salary. These results were included in the presentation. 
+
 3) At least one paragraph summarizing efforts for ethical considerations made in the project
 
     All of these data are anonymized and thus do not infringe on anyone’s privacy. It does not even give demographic information like age or gender. Additionally, it does not list the company name, so these data cannot be traced back to any particular group. Because all data are anonymized, we can just explore which factors most impact salary levels.   
