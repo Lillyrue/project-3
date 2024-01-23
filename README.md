@@ -15,9 +15,16 @@ Here, we will treat salary as the dependent variable and explore which factors l
 
 2) Instructions on how to use and interact with the project
 
-Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. We focused on a visualization on the average salary for the different job categories.  In the visualization, you can select the job category of your choice, to see the average salary in that field. You are also able to pan, box zoom, wheel zoom, refresh the data, download and/or save the visual as part of the interactivity. Our audience comes from different backgrounds, so a look at the different job categories might give insight into a field they might lean towards. 
+Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoDB. The Jupyter notebook code access the cloud database and access the data. 
 
-The 'linear models' Jupyter notebook file uses the statsmodel package to create linear models that test whether factors (like job category or company size) are statistically significant on their impact of salary. These results were included in the presentation. 
+We used the "data cleanup" Jupyter notebook with Seaborn library to find out which data to remove. Then we uplaoded the cleaned data CSV to the database and made it accessible in the cloud. The Jobs in data Jupyter notebook file analyzes the data. 
+
+
+We focused on a visualization on the average salary for the different job categories.  In the visualization, you can select the job category of your choice, to see the average salary in that field. You are also able to pan, box zoom, wheel zoom, refresh the data, download and/or save the visual as part of the interactivity. Our audience comes from different backgrounds, so a look at the different job categories might give insight into a field they might lean towards. 
+
+The 'linear models' Jupyter notebook file uses the statsmodel package to create linear models that test whether factors (like job category or company size) are statistically significant on their impact of salary. These results were included in the presentation:
+
+https://onedrive.live.com/edit?id=AAD4525304ADD80F!1190&resid=AAD4525304ADD80F!1190&ithint=file%2cpptx&authkey=!AHQejS4UB2rinmU&wdo=2&cid=aad4525304add80f
 
 3) At least one paragraph summarizing efforts for ethical considerations made in the project
 
