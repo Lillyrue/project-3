@@ -2,7 +2,7 @@
 
 All code by LUCAS CHACON, RYAN DEKKER, ALENA MATUSEVICH, LILLIAN RUELAS-THOMPSON
 
-This submission is for the Data Visualization Track and the repo contains our presentation file. As required, these data were saved to a database (MongoDB) and was uplaoded to the cloud for access. 
+This submission is for the Data Visualization Track and the repo contains our presentation file. As required, these data were saved to a database (MongoDB) and was uplaoded to the cloud for access. We used the jobs_in_data_cleaned.CSV file to create the "cleaned data" database.
 
 1) An overview of the project and its purpose
 
