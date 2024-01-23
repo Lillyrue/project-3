@@ -34,4 +34,4 @@ https://onedrive.live.com/edit?id=AAD4525304ADD80F!1190&resid=AAD4525304ADD80F!1
 
 This dataset was from Kaggle - https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 
-References for any code used that is not your own - Special thanks to the instructor, Brandon Knox, who helped us with the errors we were getting using the Bokeh interactive plot. 
+References for any code used that is not your own - Special thanks to the instructor, Brandon Knox, who helped us with the errors we were getting using the Bokeh interactive plot. Code for interactivity and bar chart was referenced by Bokeh documentation for dropdown and bar chart.
