@@ -2,13 +2,15 @@
 
 All code by LUCAS CHACON, RYAN DEKKER, ALENA MATUSEVICH, LILLIAN RUELAS-THOMPSON
 
+This submission is for the Data Visualization Track and the repo contains our presentation file. As required, these data were saved to a database (MongoDB) and was uplaoded to the cloud for access. 
+
 1) An overview of the project and its purpose
 
 This dataset has over 9,000 records of data science positions and their salary, along with their job category, title, experience level, remote status, and company location
 
-As we will all be on the job market in the coming months, it is important for us to learn which factors most impact salary and these data can inform us for future career path decisions 
+As we will all be on the job market in the coming months, it is important for us to learn which factors most impact salary and these data can inform us for future career path decisions. 
 
-Here, we will treat salary as the dependent variable and explore which factors lead to higher and lower salaries. However, the first step to finding out answers to important questions is to 'clean up' the data and remove categories that were unreliable - because the vast majority of entries were from the USA, from 2023, and employed full-time, we removed all rows that dit not fit all those criteria, which still left 6,635 entries and that sample size was large enough to infer meaningful conclusions. 
+Here, we will treat salary as the dependent variable and explore which factors lead to either higher and lower salaries. However, the first step to finding out answers to important questions is to 'clean up' the data and remove categories that were unreliable - because the vast majority of entries were from the USA, from 2023, and employed full-time, we removed all rows that dit not fit all those criteria, which still left 6,635 entries and that sample size was large enough to infer meaningful conclusions. 
 
 
 2) Instructions on how to use and interact with the project
@@ -23,4 +25,4 @@ Once the data was cleaned, it was uploaded to a database, cloud hosted by MongoD
 
 This dataset was from Kaggle - https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 
-References for any code used that is not your own
+References for any code used that is not your own - Special thanks to the instructor, Brandon Knox, who helped us with the errors we were getting using the Bokeh interactive plot. 
